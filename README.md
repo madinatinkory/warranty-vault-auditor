@@ -4,7 +4,7 @@ A mobile-first offline utility built with **React Native**, **Expo SDK 54**, and
 
 ---
 
-## 📸 Key Features
+## Key Features
 
 - **Multimodal Receipt Audit:** Captures store metadata, line items, VAT, return windows, and warranty durations from camera photos.
 - **Local-First SQLite Persistence:** Zero cloud data exposure; all receipt images and line items remain on-device.
@@ -14,7 +14,7 @@ A mobile-first offline utility built with **React Native**, **Expo SDK 54**, and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** React Native / Expo (SDK 54)
 - **Styling:** NativeWind v5 (Tailwind CSS v4 engine)
@@ -24,7 +24,7 @@ A mobile-first offline utility built with **React Native**, **Expo SDK 54**, and
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 - Node.js (v18+)

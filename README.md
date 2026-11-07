@@ -1,4 +1,4 @@
-# 🛡️ Warranty Vault & Receipt Auditor
+# Warranty Vault & Receipt Auditor
 
 A mobile-first offline utility built with **React Native**, **Expo SDK 54**, and **NativeWind v5** that leverages **Google Gemini 3.8 Flash** to transform physical receipts into structured local warranty records and formal return claim drafts.
 
